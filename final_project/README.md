@@ -89,7 +89,7 @@ roslaunch rotors_gazebo challenge.launch
 
 ## Run position controller 
 ```
-roslaunch rotors_gazebo control_challenge.launch 
+roslaunch rotors_gazebo controller_challenge.launch 
 ```
 ![](https://i.imgur.com/M255jPo.png)
 
