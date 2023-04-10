@@ -87,7 +87,7 @@ source ~/catkin_ws/devel/setup.bash
 ## Spawn husky and quadcopter
 
 ```
-roslaunch rotors_gazebo challenge.launch 
+roslaunch rotors_gazebo mav_hovering_example.launch 
 ```
 
 ![](https://i.imgur.com/NNoYdvO.png)
