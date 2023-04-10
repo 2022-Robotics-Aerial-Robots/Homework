@@ -29,7 +29,7 @@ sudo pip install cvxopt
 # Additional package
 
 ## Rotor_simulator
-This is a Gazebo simulation package for ros 18.04. The package is migrated from the [rotorS](https://github.com/ethz-asl/rotors_simulator).
+This is a Gazebo simulation package for ros 20.04. The package is migrated from the [rotorS](https://github.com/ethz-asl/rotors_simulator).
 ```
 sudo apt-get install ros-noetic-ompl
 sudo apt-get install ros-noetic-mavros
