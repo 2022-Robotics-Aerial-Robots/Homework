@@ -67,6 +67,7 @@ mv apriltag/ ~/
 # if you don't have one, try to review ros architecture  and create one
 cd ~/catkin_ws/src
 
+git clone https://github.com/ethz-asl/mav_comm.git
 git clone git@github.com:2022-Robotics-Aerial-Robots/Homework.git
 mv /Homework/final_project final_project
 
