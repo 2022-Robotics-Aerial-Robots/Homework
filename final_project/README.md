@@ -35,6 +35,7 @@ sudo apt-get install ros-noetic-ompl
 sudo apt-get install ros-noetic-mavros
 sudo apt-get install ros-noetic-mavros-extras 
 sudo apt-get install ros-noetic-mavros-msgs
+sudo apt install ros-noetic-octomap-ros
 sudo apt-get install libompl-dev
 cd /opt/ros/noetic/lib/mavros
 sudo ./install_geographiclib_datasets.sh
